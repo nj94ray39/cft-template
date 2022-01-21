@@ -1,6 +1,6 @@
 flake8
 ipdb==0.10.3
-ipython==4.2.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 mock
 pre-commit==0.8.0
