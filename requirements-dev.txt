@@ -5,5 +5,5 @@ ipython-genutils==0.1.0
 mock
 pre-commit==0.8.0
 pytest==3.9.3
-setuptools==40.0.0
+setuptools==65.5.1
 tox-pip-extensions==1.2.1
